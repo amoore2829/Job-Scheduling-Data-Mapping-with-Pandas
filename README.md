@@ -66,15 +66,15 @@ Sample data set: https://raw.githubusercontent.com/DIR-LAB/deep-batch-scheduler/
 # Meeting Docs
 
 ## Papers
-- RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning https://arxiv.org/pdf/1910.08925.pdf
-- SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning https://webpages.charlotte.edu/ddai/papers/dong-hpdc-schedinspector-22.pdf
-- Trade-Off Between Prediction Accuracy and Underestimation Rate in Job Runtime Estimates https://ieeexplore.ieee.org/abstract/document/8048966
+- [RLScheduler: An Automated HPC Batch Job Scheduler Using Reinforcement Learning](https://arxiv.org/pdf/1910.08925.pdf)
+- [SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning](https://webpages.charlotte.edu/ddai/papers/dong-hpdc-schedinspector-22.pdf)
+- [Trade-Off Between Prediction Accuracy and Underestimation Rate in Job Runtime Estimates](https://ieeexplore.ieee.org/abstract/document/8048966)
 
 ## Tutorials
-- Brief Introduction of Reinforcement Learning: https://blog.paperspace.com/introduction-to reinforcement-learning/
-- Machine Learning Basics: https://www.youtube.com/watch v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org
-- Machine Learning for Everybody: https://www.w3schools.com/python/default.asp
-- Pandas From The Ground Up: https://www.youtube.com/watch?v=5JnMutdy6Fw&ab_channel=PyCon2015
+- [Brief Introduction of Reinforcement Learning](https://blog.paperspace.com/introduction-to-reinforcement-learning/)
+- [Machine Learning Basics](https://www.youtube.com/watchv=i_LwzRVP7bg&ab_channel=freeCodeCamp.org)
+- [Machine Learning for Everybody](https://www.w3schools.com/python/default.asp)
+- [Pandas From The Ground Up](https://www.youtube.com/watch?v=5JnMutdy6Fw&ab_channel=PyCon2015)
 
 ## GitHub Repositories
 - https://raw.githubusercontent.com/DIR-LAB/deep-batch-scheduler/master/data/SDSC-SP2-1998-4.2-cln.swf
